@@ -1,1 +1,1 @@
-URL shortener Created by Elias special for FCC (https://www.freecodecamp.com)
+URL shortener created by Elias special for FCC (https://www.freecodecamp.com)
